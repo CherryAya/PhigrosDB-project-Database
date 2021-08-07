@@ -1,9 +1,9 @@
 # Documents 文档
 > 适用于版本1.0.0 （ Phigros版本1.6.11 )
 
-| Document | Context |
+| Document | p.s. |
 |:--|:--|
-| Info | 关于数据库 |
+| [Info](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/Info.md) | 关于数据库 |
 | Overview | 收录曲总览 |
 | Difficulty | 关于难度评级 |
 | Grade | 关于得分评级 |
