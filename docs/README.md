@@ -7,8 +7,8 @@
 | [Overview](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/Overview.md) | 收录曲总览 |
 | [Difficulty](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/Difficulty.md) | 关于难度评级 |
 | [Grade](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/Grade.md) | 关于得分评级 |
-| ChapterList | 当前版本章节列表 |
-| Chapter-Legacy | 过去的章节 难度定数表 |
+| [ChapterList](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/ChapterList.md) | 当前版本章节列表 |
+| [Chapter-Legacy](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/Chapter-Legacy.md) | 过去的章节 难度定数表 |
 | Chapter-Four | 管道迷宫 难度定数表 |
 | Chapter-Five | 霓虹灯牌 难度定数表 |
 | Chapter-Six | 方舟蜃景 难度定数表 |
@@ -19,3 +19,7 @@
 | Chapter-Ex-Four | HyuN精选集 难度定数表 |
 | Chapter-Ex-Five | RisingSunTraxx精选集 难度定数表 |
 | Single | 单曲精选集 难度定数表 |
+
+## 附言
++ 除Single表外 所有难度定数表排序均按照游戏内排序
++ 难度定数表中 不存在的值均为null
