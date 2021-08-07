@@ -1,5 +1,5 @@
 # Difficulty 表
-> 该表记录现版本难度评级 <br>
+> 该表记录现版本难度评级信息 <br>
 > location: main>difficulty
 
 ### 字段
