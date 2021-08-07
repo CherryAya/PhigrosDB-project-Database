@@ -2,18 +2,17 @@
 将音游Phigros的收录曲以及难度定数整合为数据库
 
 ## 数据库结构
-<hr>
 
 > sqlite <br>
 > location: ./sqlite/PhigrosDB-1.0.0-1.6.11.db
 
-    main  // 数据库
+    main    // 数据库
         |—— Info                     // 关于
-        |—— Overview            // 收录曲总览
+        |—— Overview                // 收录曲总览
         |—— Difficulty             // 难度评级
         |—— Grade                  // 得分评级
         |—— ChapterList         // 章节列表
-        |—— Chapter-Legacy  // 章节Legacy
+        |—— Chapter-Legacy      // 章节Legacy
         |—— Chapter-Four      // 章节四 管道迷宫
         |—— Chapter-Five       // 章节五 霓虹灯牌
         |—— Chapter-Six         // 章节六 方舟蜃景
