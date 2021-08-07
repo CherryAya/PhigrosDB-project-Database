@@ -26,3 +26,15 @@
 
 ## References 参考
 + Phigros1.6.11RankingScore计算器.xlsx  by [东城eastown](https://tieba.baidu.com/home/main/?un=%E4%B8%9C%E5%9F%8Eeastown)
+
+## Open-Source 开源
+> GNU General Public License v3.0
+
++ 商业使用
++ 专利使用
++ 私人使用
++ 二次分发
++ 进行修改
+>+ 二次分发必须包括版权申明与此协议
+>+ 必须标注于何处修改
+>+ 二次分发必须以相同协议
