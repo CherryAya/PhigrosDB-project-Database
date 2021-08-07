@@ -22,4 +22,4 @@
         |—— Chapter-Ex-Three    // 额外章节三 GOOD 精选集
         |—— Chapter-Ex-Four     // 额外章节四 HyuN 精选集
         |—— Chapter-Ex-Five     // 额外章节五 Rising Sun Traxx 精选集
-        |—— Single                     // 单曲 精选集
+        |—— Single                // 单曲 精选集
