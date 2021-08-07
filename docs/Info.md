@@ -1,4 +1,5 @@
 # Info 表
+> 该表记录现数据库版本信息 <br>
 > location: main>Info
 
 ### 字段
