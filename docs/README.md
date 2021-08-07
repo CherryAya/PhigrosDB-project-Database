@@ -4,7 +4,7 @@
 | Document | p.s. |
 |:--|:--|
 | [Info](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/Info.md) | 关于数据库 |
-| Overview | 收录曲总览 |
+| [Overview](https://github.com/CherryAya/PhigrosDB-project/blob/main/docs/Overview.md) | 收录曲总览 |
 | Difficulty | 关于难度评级 |
 | Grade | 关于得分评级 |
 | ChapterList | 当前版本章节列表 |
