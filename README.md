@@ -2,11 +2,10 @@
 将音游Phigros的收录曲以及难度定数整合为数据库
 
 ## 数据库结构
-
 > sqlite3 <br>
 > location: ./sqlite/PhigrosDB-1.0.0-1.6.11.db
 
-    main    // 数据库
+      main    // 数据库
         |—— Info                 // 关于
         |—— Overview            // 收录曲总览
         |—— Difficulty         // 难度评级
@@ -23,6 +22,10 @@
         |—— Chapter-Ex-Four     // 额外章节四 HyuN 精选集
         |—— Chapter-Ex-Five     // 额外章节五 Rising Sun Traxx 精选集
         |—— Single                // 单曲 精选集
+        |—— sqlite sequence         // sqlite系统表
+
+## Documents 文档
+详见 [docs](https://github.com/CherryAya/PhigrosDB-project/tree/main/docs) 目录
 
 ## References 参考
 + Phigros1.6.11RankingScore计算器.xlsx  by [东城eastown](https://tieba.baidu.com/home/main/?un=%E4%B8%9C%E5%9F%8Eeastown)
