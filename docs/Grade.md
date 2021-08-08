@@ -1,5 +1,5 @@
 # Grade 表
-> 该表记录现版本得分评级信息
+> 该表记录现版本得分评级信息 <br>
 > location: main>Grade
 
 ### 字段
