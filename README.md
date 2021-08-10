@@ -1,4 +1,4 @@
-# PhigrosDB-project-database
+# PhigrosDB-project-Database
 将音游Phigros的收录曲以及难度定数整合为数据库
 + 制表: [KaguraYayoi](https://github.com/Fjaxzhy)
 + 校对: [SakuraiCora](https://github.com/Hajimarino-HOPE)
