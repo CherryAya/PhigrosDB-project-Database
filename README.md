@@ -5,7 +5,7 @@
 
 ## 数据库结构
 > sqlite3 <br>
-> location: ./sqlite/PhigrosDB-1.0.0-1.6.11.db
+> location: ./sqlite/PhigrosDB-1.0.1-1.6.11.db
 
       main    // 数据库
         |—— Info                 // 关于
@@ -29,7 +29,16 @@
 ## Documents 文档
 详见 [docs](https://github.com/CherryAya/PhigrosDB-project/tree/main/docs) 目录
 
+## Change-Log 更新日志
+> v1.0.1 <br>
++ 新增 : 在Overview表中加入曲绘（Illustration）
+> v1.0.0
++ 完成各表初步录入
++ Phigros v1.6.11 全部收录曲难度系数录入
++ 收录曲基本信息录入
+
 ## References 参考
+> v1.0.0~v1.0.1
 + Phigros1.6.11RankingScore计算器.xlsx  by [东城eastown](https://tieba.baidu.com/home/main/?un=%E4%B8%9C%E5%9F%8Eeastown)
 
 ## Open-Source 开源

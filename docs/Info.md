@@ -16,4 +16,4 @@
 ### 值
 | id | Database_Version | Author | Phigros_Version | Total | Reference | Reference_Author |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | 1.0.0 | KaguraYayoi | 1.6.11 | 110 | Phigros1.6.11RankingScore计算器.xlsx | 东城eastown |
+| 1 | 1.0.1 | CherryAya | 1.6.11 | 110 | Phigros1.6.11RankingScore计算器.xlsx | 东城eastown |
