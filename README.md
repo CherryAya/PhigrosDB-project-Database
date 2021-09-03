@@ -27,7 +27,7 @@
         |—— sqlite sequence         // sqlite系统表
 
 ## Documents 文档
-详见 [docs](https://github.com/CherryAya/PhigrosDB-project/tree/main/docs) 目录
+详见 [docs](https://github.com/CherryAya/PhigrosDB-project-database/tree/main/docs) 目录
 
 ## Change-Log 更新日志
 > v1.0.1 <br>
