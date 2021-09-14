@@ -3,7 +3,7 @@
 > location: main>Single
 
 ### 字段
-| Key | DataType | able | isPrimaryKey | isAutoincrement | p.s. |
+| Key | DataType | Nullable | isPrimaryKey | isAutoincrement | p.s. |
 |:--|:-:|:-:|:-:|:-:|:--|
 | id | integer | not  | true | true | 主键 |
 | Name | text | -- | false | -- | 收录曲 |
